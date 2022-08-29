@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Rounak</h1>
+<h2 align="left">Hi 👋, I'm Rounak</h2>
 <h3 align="left">An Earth Observation, Sustainability and Climate-Tech enthusiast</h3>
 
 - 🌱 I’m currently learning **To leverage the use of deep geospatial-tech to solve biggest problems of humanity**
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/rounak-goel-827403184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rounak Goel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
